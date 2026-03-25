@@ -1,4 +1,4 @@
-# digital-literacy-project
+
 # Digital Literacy Portfolio
 
 ## Name: Urvi Pandey  
