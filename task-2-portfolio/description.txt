@@ -1,1 +1,4 @@
-
+ Digital Portfolio Description
+For my digital portfolio, I created and updated profiles on GitHub, LinkedIn, and Kaggle. These platforms are widely used by students and professionals to showcase skills, collaborate, and build a strong online presence.
+On GitHub, I set up my profile and created a README to introduce myself, my branch, and my learning goals. This platform will help me store and showcase my projects over time. On LinkedIn, I completed my education details, which will help me connect with professionals, explore opportunities, and build a professional identity. On Kaggle, I created an account to explore datasets, participate in competitions, and improve my data analysis skills.
+Over the next four years, I plan to actively use these platforms to upload projects, gain practical experience, and build a strong portfolio. This will help me prepare for internships and future career opportunities while continuously improving my technical and professional skills.
